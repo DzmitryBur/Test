@@ -96,6 +96,10 @@ public class MyFirstProgram {
 
         sOfAnimals("Elephant", "Camel", "Rabbit");
 
+        NewTestClass A = new NewTestClass();
+        A.Al(3,4);
+        System.out.println(A);
+
 
     }
 
