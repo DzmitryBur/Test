@@ -1,0 +1,13 @@
+import java.sql.SQLOutput;
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class MyFirstProgram1 {
+    public static void main(String[] args) {
+        int a = 0;
+        while (a < 26) {
+            System.out.print(a + " ");
+            ++a;
+        };
+}
+}
