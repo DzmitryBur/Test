@@ -101,6 +101,7 @@ public class MyFirstProgram {
         System.out.println(A);
 
 
+
     }
 
     public static double Difference(double a, double b) {
